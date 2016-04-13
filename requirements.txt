@@ -13,5 +13,7 @@ mock
 # ----------------------
 # Production Server
 # ----------------------
-gevent
 gunicorn
+mongoengine
+beautifulsoup4
+requests
