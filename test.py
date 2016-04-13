@@ -3,7 +3,7 @@
 """Tests for the Flask Heroku template."""
 
 import unittest
-from app import app
+from app3 import app
 
 
 class TestApp(unittest.TestCase):
